@@ -15,5 +15,6 @@
 
 （6）[TensorFlow2.0（六）：数据预处理中的Dataset.ipynb](https://www.cnblogs.com/chenhuabin/p/11669452.html)  
 
+（7）TensorFlow2.0（七）：激活函数.ipynb
 
-
+（8）TensorFlow2.0（八）：误差计算——损失函数总结.ipynb
