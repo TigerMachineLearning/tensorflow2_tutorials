@@ -13,7 +13,7 @@
 
 （5）[TensorFlow2.0（五）：张量限幅.ipynb](https://www.cnblogs.com/chenhuabin/p/11638224.html)  
 
-（6）[TensorFlow2.0（六）：数据预处理之Dataset](https://www.cnblogs.com/chenhuabin/p/11669452.html)  
+（6）[TensorFlow2.0（六）：数据预处理中的Dataset](https://www.cnblogs.com/chenhuabin/p/11669452.html)  
 
 
 
